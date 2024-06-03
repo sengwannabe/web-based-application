@@ -1,0 +1,4 @@
+- Different colours used for buttons to represent their use-case (e.g. delete buttons are red).
+- User can quickly swap between login and register page based on a link.
+- All buttons and modals have obvious names.
+- Every route has the same general theme and layout.
